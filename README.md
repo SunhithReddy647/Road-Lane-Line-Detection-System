@@ -54,7 +54,7 @@ This system uses advanced computer vision and deep learning techniques to proces
 1. Place your video file (`test_video.mp4`) in the project directory.
 2. Run the lane detection script:
     ```sh
-    python lane_detection.py
+    python lane_detection.py                            
     ```
 3. Press `q` to quit the video window.
 
