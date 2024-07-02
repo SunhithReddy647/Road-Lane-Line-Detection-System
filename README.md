@@ -30,8 +30,17 @@ This system uses advanced computer vision and deep learning techniques to proces
 
 ## Code
 
+# Change to your project directory
+cd path/to/your/project
+# Initialize Git if not done already
+git init
+# Add the Python file
 git add main.py
+# Commit the changes
 git commit -m "Add main.py"
+# Add the remote repository (only needed if not already done)
+git remote add origin https://github.com/yourusername/your-repo.git
+# Push the changes
 git push -u origin master
 
 ### Prerequisites
