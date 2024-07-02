@@ -30,18 +30,32 @@ This system uses advanced computer vision and deep learning techniques to proces
 
 ## Code
 
-# Change to your project directory
-cd path/to/your/project
-# Initialize Git if not done already
-git init
-# Add the Python file
-git add main.py
-# Commit the changes
-git commit -m "Add main.py"
-# Add the remote repository (only needed if not already done)
-git remote add origin https://github.com/yourusername/your-repo.git
-# Push the changes
-git push -u origin master
+
+### Files Description
+
+- **main.py**: This script contains the core functionality of the application. It handles [describe what main.py does in your project].
+
+- **gui.py**: This script implements the graphical user interface (GUI) for the application. It provides [describe the purpose and features of gui.py].
+
+### Installation
+
+To run these scripts, ensure you have Python installed on your system.
+
+### Usage
+
+To run the application:
+
+1. **Run `main.py`**:
+
+    ```bash
+    python main.py
+    ```
+
+2. **Run `gui.py`**:
+
+    ```bash
+    python gui.py
+    ```
 
 ### Prerequisites
 
