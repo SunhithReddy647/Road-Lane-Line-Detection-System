@@ -30,6 +30,10 @@ This system uses advanced computer vision and deep learning techniques to proces
 
 ## Code
 
+git add main.py
+git commit -m "Add main.py"
+git push -u origin master
+
 ### Prerequisites
 
 - Python 3.6 or later
