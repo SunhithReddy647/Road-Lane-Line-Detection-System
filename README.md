@@ -30,7 +30,6 @@ This system uses advanced computer vision and deep learning techniques to proces
 
 ## Code
 
-## Code
 
 ### Files Description
 
@@ -40,20 +39,7 @@ This system uses advanced computer vision and deep learning techniques to proces
 
 ### Installation
 
-To run these scripts, ensure you have Python installed on your system. You may also need to install dependencies listed in `requirements.txt`.
-
-1. **Clone the repository**:
-
-    ```bash
-    git clone https://github.com/yourusername/yourproject.git
-    cd yourproject
-    ```
-
-2. **Install dependencies**:
-
-    ```bash
-    pip install -r requirements.txt
-    ```
+To run these scripts, ensure you have Python installed on your system.
 
 ### Usage
 
@@ -70,16 +56,6 @@ To run the application:
     ```bash
     python gui.py
     ```
-
-### Requirements
-
-Ensure your environment meets the following dependencies (listed in `requirements.txt`):
-
-```txt
-# Example contents of requirements.txt
-tkinter
-# Add any other dependencies required by your project
-
 
 ### Prerequisites
 
