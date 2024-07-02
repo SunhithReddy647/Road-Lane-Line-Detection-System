@@ -29,7 +29,7 @@ This system uses advanced computer vision and deep learning techniques to proces
 - Easy to configure and extend
 
 ## Code
-``
+
 ### Prerequisites
 
 - Python 3.6 or later
